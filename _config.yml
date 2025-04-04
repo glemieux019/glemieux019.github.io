@@ -4,11 +4,11 @@ theme: just-the-docs
 
 url: https://glemieux019.github.io
 
-aux_links:
-  Template Repository: https://github.com/glemieux019/Cyber-Portfolio
-
 logo: "/assets/images/logo.jpg"
 favicon_ico: "/assets/images/logo.jpg"
+
+nav_enabled: true
+heading_anchors: true
 
 # Enable or disable the site search
 # Supports true (default) or false
