@@ -1,8 +1,16 @@
 title: Cyber Portfolio
 description: Portfolio description
 theme: just-the-docs
-
 url: https://glemieux019.github.io
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: "default"
 
 logo: "/assets/images/logo.jpg"
 favicon_ico: "/assets/images/logo.jpg"
